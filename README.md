@@ -1,11 +1,11 @@
-# Hola, soy [Wuhao Qiu] 
+# Hola, soy Wuhao Qiu 
 
 Actualmente, estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)**
 
 Sobre mí
 -  Estudiante de DAM
 -  Bachiller tecnológico (2021-2023)
--  Aprendiendo sobre desarrollo con las ultimas tecnologia
+-  Aprendiendo sobre desarrollo con las ultimas tecnología
 -  Contacto: [wuhaoqiu2005@gmail.com]
 
 ## Tecnología que estoy aprendiendo 
