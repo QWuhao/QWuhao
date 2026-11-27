@@ -1,11 +1,13 @@
-# Hola, soy Wuhao Qiu 
+# [Hello World], soy Wuhao Qiu 
 
-Actualmente, estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)**
+Actualmente, soy un estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)**
 
-Sobre mí
+**Sobre mi**
 -  Estudiante de DAM
 -  Bachiller tecnológico (2021-2023)
 -  Aprendiendo sobre desarrollo con las ultimas tecnología
+-  Fanático de la fantasía y Sci-fi
+-  Amante de los videojuegos
 -  Contacto: [wuhaoqiu2005@gmail.com]
 
 ## Tecnología que estoy aprendiendo 
@@ -31,5 +33,5 @@ Sobre mí
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 
 
-## Conecta conmigo
+## Conecta conmigo si necesitas algo
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:[wuhaoqiu2005@gmail.com])
